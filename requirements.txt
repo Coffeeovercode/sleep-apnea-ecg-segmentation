@@ -1,0 +1,14 @@
+# Core Python dependencies
+numpy
+pandas
+
+# Signal processing for EEG/ECG
+mne
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning frameworks (optional for later model training)
+tensorflow
+scikit-learn
