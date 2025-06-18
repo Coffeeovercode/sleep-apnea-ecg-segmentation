@@ -20,12 +20,12 @@ I used Python, MNE, NumPy, Pandas, Matplotlib, and Seaborn to segment raw ECG re
 ## 📂 **Project Structure**
 
 📁 data/
-├── raw/ # Place your raw .edf files here
-└── processed/ # (Optional) Processed segments can be saved here
+├── raw/ No files due to licensing
+└── processed/ # Processed segments can be saved here
 
 📄 Sleep_Apnea_Preprocessing_Visualization.ipynb # Main notebook: preprocessing + visualization
 📄 requirements.txt # Python dependencies
-📄 README.md # Project overview (this file)
+📄 README.md # Project overview
 
 
 ---
@@ -53,7 +53,7 @@ Copy
 Edit
 git clone https://github.com/Coffeeovercode/sleep-apnea-ecg-segmentation.git
 cd sleep-apnea-ecg-segmentation
-2️⃣ Put your .edf files in the data/raw/ folder.
+2️⃣ Put your .edf files in the data/raw/ folder.(rec files are available. Convert them to edf. Code included.
 
 3️⃣ Open the notebook:
 
@@ -79,10 +79,4 @@ Please download the St. Vincent's / UCD Sleep Apnea Database from PhysioNet and 
 🙌 Author
 Supreet Sarita Das — https://github.com/Coffeeovercode
 ✅ Happy Coding!
-
-
-
-git add README.md
-git commit -m "Add project README"
-git push
 
