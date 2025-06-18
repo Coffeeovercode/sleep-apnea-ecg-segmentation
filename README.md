@@ -1,5 +1,5 @@
-🩺 Sleep Apnea ECG Segmentation and Labeling
-📌 Description
+# 🩺 Sleep Apnea ECG Segmentation and Labeling
+**📌 Description**
 I processed the St. Vincent's University Hospital / University College Dublin Sleep Apnea Database by segmenting raw ECG recordings into 60-second windows and labeling each segment into six apnea classes and one non-apnea class.
 
 # sleep-apnea-ecg-segmentation
